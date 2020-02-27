@@ -1,2 +1,2 @@
 # LeetCode
-favorite question  i met in Leetcode.com
+favorite question  i met in leetcode-cn.com
